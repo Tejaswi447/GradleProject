@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="checker">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/checker-framework-3.20.0/checker" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/checker-framework-3.20.0/checker" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/checker-framework-3.20.0/checker" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/checker-framework-3.20.0/checker" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/checker-framework-3.20.0/checker" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/checker-framework-3.20.0/checker" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/checker-framework-3.20.0/checker" recursive="false" type="SOURCES" />
+  </library>
+</component>
